@@ -1,0 +1,9 @@
+.inline-form {
+  display: flex;
+  align-items: center;
+}
+
+/* .inline-form p {
+  margin: 0;
+  margin-right: 10px;
+} */
